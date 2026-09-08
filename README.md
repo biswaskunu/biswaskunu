@@ -2,7 +2,7 @@
 
 A CS student who fell in love with backend engineering and hasn't looked back since. I spend most of my time in the terminal, breaking things on purpose to understand how they work, then rebuilding them properly.
 
-- 🦀 I build things with **Rust, Axum, PostgreSQL and Java** — systems that are fast, correct, and don't fall over
+- 🦀 I build things with **Rust, Axum, and PostgreSQL** — systems that are fast, correct, and don't fall over
 - 🧠 Genuinely curious about how the internet's plumbing works — from auth flows to process schedulers
 - 🏗️ I like scoping projects like a mini-startup: PRD first, then code
 - 🏆 I've led a few hackathon teams and enjoy the chaos of building under a deadline
@@ -41,7 +41,12 @@ A CS student who fell in love with backend engineering and hasn't looked back si
 
 ### 📊 GitHub Stats
 
-![Biswash's GitHub stats](https://github-stats-extended.vercel.app/api?username=biswaskunu&show_icons=true&theme=radical) ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=biswaskunu&layout=compact&theme=radical)
+<table>
+<tr>
+<td><img src="https://github-stats-extended.vercel.app/api?username=biswaskunu&show_icons=true&theme=radical" alt="Biswash's GitHub stats" /></td>
+<td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=biswaskunu&layout=compact&theme=radical" alt="Top Langs" /></td>
+</tr>
+</table>
 
 ---
 
