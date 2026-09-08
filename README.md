@@ -42,13 +42,15 @@ I break things on purpose, then rebuild them properly. Currently obsessed with b
 
 ### 📊 GitHub Stats
 
+ 
 <table>
 <tr>
 <td><img src="https://github-stats-extended.vercel.app/api?username=biswaskunu&show_icons=true&theme=radical" alt="Biswash's GitHub stats" /></td>
 <td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=biswaskunu&layout=compact&theme=radical" alt="Top Langs" /></td>
 </tr>
 </table>
-
+![WakaTime Stats](https://github-stats-extended.vercel.app/api/wakatime/?username=biswaskunu&theme=radical)
+ 
 ---
 
 ### 📫 Reach Me
