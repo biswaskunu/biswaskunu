@@ -5,6 +5,7 @@
 I break things on purpose, then rebuild them properly. Currently obsessed with backend engineering.
 
 - 🦀 Rust, Axum, PostgreSQL — my go-to trio
+- 🌱 Java is growing on me
 - 🏆 Led a few hackathon teams and thrive under deadline chaos
 - 🧪 Always got a weird side project cooking
 - ☕ Best reached with a good backend problem or a bad pun
