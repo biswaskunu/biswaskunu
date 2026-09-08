@@ -1,14 +1,14 @@
 # Hi, I'm Biswash 👋
 
-Backend engineer in the making — 2nd-year CS student building with **Rust, Axum, and PostgreSQL**. I like systems that are fast, correct, and don't fall over.
+A CS student who fell in love with backend engineering and hasn't looked back since. I spend most of my time in the terminal, breaking things on purpose to understand how they work, then rebuilding them properly.
 
-- 🔭 Currently building **ChainDock** — a secure digital document management system for SIH 2026 (Ed25519 signatures + SHA-256 hash-chained audit logs)
-- 🛠️ Also working on a **system performance monitor** ("Why Is This Slow?") that correlates spikes to specific processes
-- 🌱 Learning: real-time data pipelines, SSE/WebSocket streaming, time-series storage in Postgres
-- 🎯 Looking for: remote backend internships (targeting GSoC, MLH Fellowship, Outreachy)
-- 💼 Freelance: building landing pages for local small businesses — [portfolio](https://biswash-rath.netlify.app/)
-- 🏆 Led 3 hackathon teams (2 intra-college, 1 SIH)
-- ⚡ Fun fact: I write backend code in Rust before I write it in anything else
+- 🦀 I build things with **Rust, Axum, PostgreSQL and Java** — systems that are fast, correct, and don't fall over
+- 🧠 Genuinely curious about how the internet's plumbing works — from auth flows to process schedulers
+- 🏗️ I like scoping projects like a mini-startup: PRD first, then code
+- 🏆 I've led a few hackathon teams and enjoy the chaos of building under a deadline
+- 💻 Also dabble outside my comfort zone — currently poking at Java for a multiplayer game server
+- 🌱 Always exploring something new, one weird side project at a time
+- ☕ Best reached with a good backend problem or a bad pun
 
 ---
 
