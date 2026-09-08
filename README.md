@@ -33,9 +33,10 @@ I break things on purpose, then rebuild them properly. Currently obsessed with b
 
 ### 📌 Pinned Highlights
 
-- **ChainDock** — SIH 2026 project. Hash-chained audit logs, digital signatures, and access-controlled document workflows for government-scale document integrity.
 - **java-multiplayer-server** — Real-time multiplayer game server built in Java, exploring networking and concurrency outside the usual stack.
-- **System Monitor** — OS-level process monitoring via `sysinfo` + `/proc`, streamed live over Axum with Postgres-backed time-series data.
+- **System Monitor(next plan)** — OS-level process monitoring via `sysinfo` + `/proc`, streamed live over Axum with Postgres-backed time-series data.
+- **history-guesser** — A game where you guess the year/place of historical events, built for fun on the side.
+- **ChainDock** — SIH 2026 project. Hash-chained audit logs, digital signatures, and access-controlled document workflows for government-scale document integrity.
 
 ---
 
