@@ -1,13 +1,12 @@
 # Hi, I'm Biswash 👋
 
-A CS student who fell in love with backend engineering and hasn't looked back since. I spend most of my time in the terminal, breaking things on purpose to understand how they work, then rebuilding them properly.
+**`Developer`**
 
-- 🦀 I build things with **Rust, Axum, and PostgreSQL** — systems that are fast, correct, and don't fall over
-- 🧠 Genuinely curious about how the internet's plumbing works — from auth flows to process schedulers
-- 🏗️ I like scoping projects like a mini-startup: PRD first, then code
-- 🏆 I've led a few hackathon teams and enjoy the chaos of building under a deadline
-- 💻 Also dabble outside my comfort zone — currently poking at Java for a multiplayer game server
-- 🌱 Always exploring something new, one weird side project at a time
+I break things on purpose, then rebuild them properly. Currently obsessed with backend engineering.
+
+- 🦀 Rust, Axum, PostgreSQL — my go-to trio
+- 🏆 Led a few hackathon teams and thrive under deadline chaos
+- 🧪 Always got a weird side project cooking
 - ☕ Best reached with a good backend problem or a bad pun
 
 ---
