@@ -49,7 +49,6 @@ I break things on purpose, then rebuild them properly. Currently obsessed with b
 <td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=biswaskunu&layout=compact&theme=radical" alt="Top Langs" /></td>
 </tr>
 </table>
-![WakaTime Stats](https://github-stats-extended.vercel.app/api/wakatime/?username=biswaskunu&theme=radical)
  
 ---
 
