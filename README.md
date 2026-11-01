@@ -2,13 +2,22 @@
 
 **`Developer`**
 
-I break things on purpose, then rebuild them properly. Currently obsessed with backend engineering.
+### 🦀 Backend dev in the making · I break things on purpose, then rebuild them properly
 
-- 🦀 Rust, Axum, PostgreSQL — my go-to trio
-- 🌱 Java is growing on me
-- 🏆 Led a few hackathon teams and thrive under deadline chaos
-- 🧪 Always got a weird side project cooking
-- ☕ Best reached with a good backend problem or a bad pun
+- Second-year CSE student at **SIT Bhubaneswar**
+- 🦀 **Rust, Axum, PostgreSQL** — my go-to trio
+- ☕ Learning **Java**
+- 🏆 Led a few hackathon teams (4) and thrive under deadline chaos
+
+---
+
+## 🔭 Currently
+
+- 🤖 Learning **agentic AI**
+- 🏗️ Learning **system design**
+- 🧪 Always one weird side project deep
+
+---
 
 ---
 
@@ -31,28 +40,17 @@ I break things on purpose, then rebuild them properly. Currently obsessed with b
 
 ---
 
-### 📌 Pinned Highlights
+## 🚀 Featured projects
 
-- **java-multiplayer-server** — Real-time multiplayer game server built in Java, exploring networking and concurrency outside the usual stack.
-- **System Monitor(next plan)** — OS-level process monitoring via `sysinfo` + `/proc`, streamed live over Axum with Postgres-backed time-series data.
-- **history-guesser** — A game where you guess the year/place of historical events, built for fun on the side.
-- **ChainDock** — SIH 2026 project. Hash-chained audit logs, digital signatures, and access-controlled document workflows for government-scale document integrity.
-
----
-
-### 📊 GitHub Stats
-
- 
-<table>
-<tr>
-<td><img src="https://github-stats-extended.vercel.app/api?username=biswaskunu&show_icons=true&theme=radical" alt="Biswash's GitHub stats" /></td>
-<td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=biswaskunu&layout=compact&theme=radical" alt="Top Langs" /></td>
-</tr>
-</table>
- 
----
+| Project | What it is |
+|---|---|
+| 🧱 [**Scaffold**](https://github.com/biswaskunu/scaffold) | [one-line description] |
+| 🕵️ [**Sherlock**](https://github.com/biswaskunu/sherlock) | [one-line description] |
+| ⛓️ [**ChainDock**](https://github.com/biswaskunu/chaindock) | SIH 2026 project. Hash-chained audit logs, digital signatures, and access-controlled document workflows for government-scale document integrity. |
+| 👀 [**LookAway**](https://github.com/biswaskunu/lookaway) | [one-line description] |
+| 🌍 [**History Guesser**](https://github.com/biswaskunu/history-guesser) | Guess the year and place of historical events. Built for fun. |
+| 💻 [**Coder's Hub**](https://github.com/biswaskunu/coders-hub) | [one-line description] |
 
 ### 📫 Reach Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://biswash-rath.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/biswaskunu)
+[🌐 Portfolio](https://biswash-rath.netlify.app/) · [💼 LinkedIn](https://www.linkedin.com/in/biswash-rath-25a871379/) · [🐦 X](https://x.com/BiswasKunu) · [📫 Email](mailto:kunubiswas2@gmail.com)
