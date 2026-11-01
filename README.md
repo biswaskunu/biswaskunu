@@ -48,10 +48,10 @@
 
 | Project | What it is |
 |---|---|
-| 🧱 [**Scaffold**](https://github.com/biswaskunu/scaffold) | [one-line description] |
-| 🕵️ [**Sherlock**](https://github.com/biswaskunu/sherlock) | [one-line description] |
+| 🧱 [**Scaffold**](https://github.com/biswaskunu/scaffold) | [A local-first, multiuser canvas of typed nodes and edges that compiles into a validated, dependency-ordered implementation plan.] |
+| 🕵️ [**Sherlock**](https://github.com/biswaskunu/sherlock) | [Local Rust observability agent: samples system metrics every 3s and correlates spikes to processes.] |
 | ⛓️ [**ChainDock**](https://github.com/biswaskunu/chaindock) | SIH 2026 project. Hash-chained audit logs, digital signatures, and access-controlled document workflows for government-scale document integrity. |
-| 👀 [**LookAway**](https://github.com/biswaskunu/lookaway) | [one-line description] |
-| 🌍 [**History Guesser**](https://github.com/biswaskunu/history-guesser) | Guess the year and place of historical events. Built for fun. |
-| 💻 [**Coder's Hub**](https://github.com/biswaskunu/coders-hub) | [one-line description] |
+| 👀 [**LookAway**](https://github.com/biswaskunu/lookaway) | [A lightweight, cross-platform CLI tool that reminds you to look away from your screen at regular intervals] |
+| 🌍 [**History Guesser**](https://github.com/biswaskunu/history-guesser) | Guess the place of historical events. Built for fun. |
+| 💻 [**Coder's Hub**](https://github.com/biswaskunu/coders-hub) | [A place for coders, by coders. Find resources, share code, and grow.] |
 
