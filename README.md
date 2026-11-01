@@ -11,13 +11,17 @@
 
 ---
 
+### 📫 Reach Me
+
+[🌐 Portfolio](https://biswash-rath.netlify.app/) · [💼 LinkedIn](https://www.linkedin.com/in/biswash-rath-25a871379/) · [🐦 X](https://x.com/BiswasKunu) · [📫 Email](mailto:kunubiswas2@gmail.com)
+
+---
+
 ## 🔭 Currently
 
 - 🤖 Learning **agentic AI**
 - 🏗️ Learning **system design**
 - 🧪 Always one weird side project deep
-
----
 
 ---
 
@@ -51,6 +55,3 @@
 | 🌍 [**History Guesser**](https://github.com/biswaskunu/history-guesser) | Guess the year and place of historical events. Built for fun. |
 | 💻 [**Coder's Hub**](https://github.com/biswaskunu/coders-hub) | [one-line description] |
 
-### 📫 Reach Me
-
-[🌐 Portfolio](https://biswash-rath.netlify.app/) · [💼 LinkedIn](https://www.linkedin.com/in/biswash-rath-25a871379/) · [🐦 X](https://x.com/BiswasKunu) · [📫 Email](mailto:kunubiswas2@gmail.com)
